@@ -1,6 +1,8 @@
 # graphics-project
 run MainWindow.java
 
+[Demo Video](https://youtu.be/QEKRX3y_Oxk)
+
 1. W key: Control the character to move forward
 2. A key: Control the character's movement to the left
 3. S key: Control the character to move backwards
